@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{8862A480-4845-4248-8AA7-23BA0CC0520F}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "ScriptPluginCompare",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
