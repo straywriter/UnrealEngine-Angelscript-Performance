@@ -12,9 +12,9 @@ The cloning process failed due to lfs traffic restriction, and only unlua was co
 - PIE
 - Some blueprints have no data that is not supported by the corresponding type
 
-![chart-1731087186775](READMD/chart-1731087186775.png)
+![chart-1731087186775](README/chart-1731087186775.png)
 
-![chart-1731086556375](READMD/chart-1731086556375-1731087277301-3.png)
+![chart-1731086556375](README/chart-1731086556375-1731087277301-3.png)
 
 
 
@@ -29,7 +29,7 @@ Open /Game/FirstPerson/Maps/TestMap.TestMap
 ```
 
 Click button:
-![image-20241109013746143](READMD/image-20241109013746143.png)
+![image-20241109013746143](README/image-20241109013746143.png)
 
 Result output: `[ProjectPath]/Saved/xxx.csv`
 

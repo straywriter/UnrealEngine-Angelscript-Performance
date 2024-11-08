@@ -12,15 +12,15 @@ as还没研究怎么调用蓝图，但理论上as应该用不到调用蓝图，a
 - PIE
 - 蓝图有些空的是不支持对应的类型
 
-![chart-1731087186775](READMD-zh/chart-1731087186775.png)
+![chart-1731087186775](README/chart-1731087186775.png)
 
-![chart-1731086556375](READMD-zh/chart-1731086556375-1731087277301-3.png)
+![chart-1731086556375](README/chart-1731086556375-1731087277301-3.png)
 
 
 
 [[UnrealCircle成都\]UnrealCSharp-UE下C#编程插件 | 皮皮_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1CC411L7mh/?share_source=copy_web&vd_source=85dc713a4fb92e3a9fc08ad4a7041360)
 
-![image-20241109014758827](READMD-zh/image-20241109014758827.png)
+![image-20241109014758827](README/image-20241109014758827.png)
 
 
 
@@ -31,7 +31,7 @@ Open /Game/FirstPerson/Maps/TestMap.TestMap
 ```
 
 Click button:
-![image-20241109013746143](READMD-zh/image-20241109013746143.png)
+![image-20241109013746143](README/image-20241109013746143.png)
 
 Result output: `[ProjectPath]/Saved/xxx.csv`
 
